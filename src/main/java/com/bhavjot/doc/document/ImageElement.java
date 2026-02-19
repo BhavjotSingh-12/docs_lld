@@ -1,4 +1,4 @@
-package com.bhavjot.doc;
+package com.bhavjot.doc.document;
 
 public class ImageElement extends DocumentElement {
     String imagePath;

@@ -1,4 +1,4 @@
-package com.bhavjot.doc;
+package com.bhavjot.doc.savedoc;
 
 public class SaveToDB implements Persistence{
     @Override
